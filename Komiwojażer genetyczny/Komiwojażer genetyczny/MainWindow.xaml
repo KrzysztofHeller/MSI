@@ -1,0 +1,29 @@
+﻿<Window x:Class="Komiwojażer_genetyczny.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Komiwojażer_genetyczny"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="578.966" Width="637.258">
+    <Grid Background="#FF7380AE" Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="458*"/>
+            <ColumnDefinition Width="169*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="listamiast" Width="110" RenderTransformOrigin="1.734,1.033" Margin="155,150,0,42" IsSynchronizedWithCurrentItem="True" HorizontalAlignment="Left"/>
+        <TextBox x:Name="Text" TextWrapping="Wrap" Width="303" Margin="294,34,0,42" HorizontalAlignment="Left" Grid.ColumnSpan="2"/>
+        <Button x:Name="Load" Content="Load" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Margin="24,48,0,0" Click="Button1_Click" RenderTransformOrigin="0.44,1.65"/>
+        <Button x:Name="Start" Content="Start" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Margin="24,76,0,0" Click="Start_Click" RenderTransformOrigin="0.093,0.6"/>
+        <TextBox x:Name="Iteracjetextbox" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" Margin="116,48,0,0" Background="#FFF7F7F7" PreviewTextInput="Iteracjetextbox_PeviewTextUnput" Text="5000" RenderTransformOrigin="-0.214,0.55"/>
+        <Label Content="ilość iteracji" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="2.316,0.923" Margin="116,24,0,0" Width="85" Height="24"/>
+        <TextBox x:Name="ilośćmutacjibox" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" Margin="116,102,0,0" Background="#FFF7F7F7" PreviewTextInput="Iteracjetextbox_PeviewTextUnput" Text="15"/>
+        <Label Content="ilość mutacji" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="2.316,0.923" Margin="116,73,0,0" Width="85" Height="24"/>
+        <TextBox x:Name="osobnicysestartowi" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="201,48,0,0" Background="#FFF7F7F7" PreviewTextInput="Iteracjetextbox_PeviewTextUnput" Text="100" RenderTransformOrigin="-0.214,0.55"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="osobnicy" VerticalAlignment="Top" Margin="206,29,0,0"/>
+        <TextBox x:Name="krzyżowaniatext" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Margin="201,102,0,0" Background="#FFF7F7F7" PreviewTextInput="Iteracjetextbox_PeviewTextUnput" Text="50" RenderTransformOrigin="-0.214,0.55"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="krzyżowania" VerticalAlignment="Top" Margin="201,78,0,0"/>
+        <ListBox x:Name="listboxobszar" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="24,150,0,0" SelectedIndex="0"/>
+        <ListBox x:Name="listboxalgorytm" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="24,255,0,0" SelectedIndex="0"/>
+    </Grid>
+</Window>

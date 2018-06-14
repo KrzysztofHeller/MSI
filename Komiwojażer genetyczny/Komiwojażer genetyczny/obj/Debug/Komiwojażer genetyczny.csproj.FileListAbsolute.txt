@@ -1,0 +1,45 @@
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.exe.config
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.exe
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.pdb
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csprojResolveAssemblyReference.cache
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\MainWindow.g.cs
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\App.g.cs
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny_MarkupCompile.cache
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny_MarkupCompile.lref
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\MainWindow.baml
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.g.resources
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer_genetyczny.Properties.Resources.resources
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csproj.GenerateResource.Cache
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csproj.CoreCompileInputs.cache
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.exe
+C:\Users\khell\source\repos\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.pdb
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.exe.config
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.exe
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.pdb
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csprojResolveAssemblyReference.cache
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\MainWindow.g.cs
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\App.g.cs
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny_MarkupCompile.cache
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny_MarkupCompile.lref
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\MainWindow.baml
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.g.resources
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer_genetyczny.Properties.Resources.resources
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csproj.GenerateResource.cache
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csproj.CoreCompileInputs.cache
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.exe
+D:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.pdb
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.exe.config
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.exe
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\bin\Debug\Komiwojażer genetyczny.pdb
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csprojResolveAssemblyReference.cache
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\MainWindow.g.cs
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\App.g.cs
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny_MarkupCompile.cache
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny_MarkupCompile.lref
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\MainWindow.baml
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.g.resources
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer_genetyczny.Properties.Resources.resources
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csproj.GenerateResource.Cache
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.csproj.CoreCompileInputs.cache
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.exe
+I:\4semestr\MSI\Komiwojażer genetyczny\Komiwojażer genetyczny\obj\Debug\Komiwojażer genetyczny.pdb
